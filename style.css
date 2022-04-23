@@ -13,7 +13,12 @@ nav{
     background-color: lightgrey;
     font-style: verdana;
 }
-
+ .navbar{
+    width: 50%;
+    height: 100px;
+    background-color: lightgrey;
+    font-style: verdana;
+ }
     ul{
         margin-left: 60px;
 
